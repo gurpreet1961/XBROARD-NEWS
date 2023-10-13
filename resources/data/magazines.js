@@ -9,8 +9,8 @@ magazines = [
  * we have for assessment. If you write your code in this file, you will end up deleting it in the assessment.
  * Uncomment the below lines to do local assessment
  */
-// magazines = [
-//   "https://assessment-rss.s3.ap-south-1.amazonaws.com/coronavirus.rss",
-//   "https://assessment-rss.s3.ap-south-1.amazonaws.com/india-tech.rss",
-//   "https://assessment-rss.s3.ap-south-1.amazonaws.com/sports-star.rss",
-// ];
+magazines = [
+  "https://assessment-rss.s3.ap-south-1.amazonaws.com/coronavirus.rss",
+  "https://assessment-rss.s3.ap-south-1.amazonaws.com/india-tech.rss",
+  "https://assessment-rss.s3.ap-south-1.amazonaws.com/sports-star.rss",
+];
