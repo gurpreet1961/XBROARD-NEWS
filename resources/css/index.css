@@ -93,7 +93,7 @@ body {
   /* Adjust font size for screens below 480px */
   @media (max-width: 480px) {
     .container{
-        max-width: 80vw !important;
+        max-width: 90vw !important;
     }
     h1 {
       font-size: 5vw !important;
